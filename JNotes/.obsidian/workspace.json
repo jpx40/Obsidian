@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad955d2a960bb02",
+  "active": "769fa88961881f97",
   "lastOpenFiles": [
+    "Lernen/Python.md",
     "2023-07-03.md",
     "Kosten/Ausgaben.md",
-    "Lernen/Python.md",
     "Untitled",
     "Lernen",
     "Kosten"

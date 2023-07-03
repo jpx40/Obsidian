@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernen/Python.md",
+                "file": "Kosten/Ausgaben.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7918ae98a51b7b3c",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernen/Python.md",
+                "file": "Kosten/Ausgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernen/Python.md",
+                "file": "Kosten/Ausgaben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernen/Python.md"
+                "file": "Kosten/Ausgaben.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c684f949b434bee2",
+  "active": "aad955d2a960bb02",
   "lastOpenFiles": [
-    "Lernen/Untitled.md",
     "Lernen/Python.md",
+    "Lernen/Untitled.md",
     "2023-07-03.md",
     "Kosten/Ausgaben.md",
     "Untitled",

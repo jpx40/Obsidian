@@ -141,21 +141,14 @@
                 "file": "Lernen/Python.md"
               }
             }
-          },
-          {
-            "id": "769fa88961881f97",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769fa88961881f97",
+  "active": "c684f949b434bee2",
   "lastOpenFiles": [
     "Lernen/Untitled.md",
     "Lernen/Python.md",

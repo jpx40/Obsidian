@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Lernen/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Lernen/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Lernen/Python.md"
               }
             }
           },
@@ -181,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aad955d2a960bb02",
+  "active": "d523429e96106157",
   "lastOpenFiles": [
-    "Kosten/Ausgaben.md",
     "Untitled.canvas",
+    "Kosten/Ausgaben.md",
     "Lernen/Python.md",
     "Lernen/Untitled.md",
     "2023-07-03.md",

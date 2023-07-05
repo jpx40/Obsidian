@@ -79,13 +79,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9ab75513a9859fef",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7918ae98a51b7b3c",
@@ -177,10 +185,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d523429e96106157",
+  "active": "9ab75513a9859fef",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Kosten/Ausgaben.md",
